@@ -26,7 +26,7 @@
           <mxGeometry x="28" y="959" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="x_Rnko3EeMT6BJlWxD52-33" value="提示用户余额不足" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="202" y="1196" width="188" height="48" as="geometry" />
+          <mxGeometry x="200" y="1041" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="x_Rnko3EeMT6BJlWxD52-34" value="扣除余额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="28" y="1050" width="125" height="48" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="20" y="1129" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="x_Rnko3EeMT6BJlWxD52-36" value="用户收货" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="28" y="1393" width="124" height="48" as="geometry" />
+          <mxGeometry x="31" y="1201" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="x_Rnko3EeMT6BJlWxD52-37" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="146" y="1491" width="94" height="48" as="geometry" />
+          <mxGeometry x="152" y="1280" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="x_Rnko3EeMT6BJlWxD52-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="x_Rnko3EeMT6BJlWxD52-26" target="x_Rnko3EeMT6BJlWxD52-27">
           <mxGeometry relative="1" as="geometry">
