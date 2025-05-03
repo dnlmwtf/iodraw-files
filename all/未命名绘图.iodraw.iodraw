@@ -23,7 +23,7 @@
           <mxGeometry x="200" y="686" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-7" value="公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="835" width="120" height="60" as="geometry" />
+          <mxGeometry x="209" y="842" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-8" value="宠物信息查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="371" y="11" width="118" height="27" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="347" y="634" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-26" value="流浪宠物信息的上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="377" y="465" width="118" height="27" as="geometry" />
+          <mxGeometry x="347" y="508" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-27" value="流浪宠物信息的查看与搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347" y="553" width="158" height="27" as="geometry" />
