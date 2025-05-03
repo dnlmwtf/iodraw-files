@@ -79,8 +79,18 @@
         <mxCell id="82y-qh5c0fIzKaOF27SD-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-5" target="82y-qh5c0fIzKaOF27SD-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="82y-qh5c0fIzKaOF27SD-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="346.85721261160734" y="569.8571602957591" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-5" value="流浪宠物上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82y-qh5c0fIzKaOF27SD-89" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354.8571777343752" y="686.4286411830358" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-6" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="686" width="120" height="60" as="geometry" />
