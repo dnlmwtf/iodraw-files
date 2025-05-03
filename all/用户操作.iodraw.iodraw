@@ -139,7 +139,7 @@
         <mxCell id="82y-qh5c0fIzKaOF27SD-27" value="上报信息的处理确认" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="347" y="553" width="158" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="82y-qh5c0fIzKaOF27SD-40" value="公告查看" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="82y-qh5c0fIzKaOF27SD-40" value="公告的增删改查" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="392" y="873" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-49" value="管理员信息的增删改查" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
