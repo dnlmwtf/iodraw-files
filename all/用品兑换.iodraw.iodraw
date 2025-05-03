@@ -19,11 +19,11 @@
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-39" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="392" y="141" width="104" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="Xm9faSs1aIUUdzHeTCw1-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xm9faSs1aIUUdzHeTCw1-41" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="493" y="226" width="60" height="496" as="geometry" />
         </mxCell>
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-42" value="终端设备（PC）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="236" width="284" height="240" as="geometry" />
+          <mxGeometry x="193" y="480" width="284" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
