@@ -40,23 +40,19 @@
         <mxCell id="82y-qh5c0fIzKaOF27SD-14" value="放弃领养" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377" y="147" width="118" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="82y-qh5c0fIzKaOF27SD-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="346" y="843" width="118" height="27" as="geometry" />
-        </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-16" value="积分充值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="693" width="118" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="82y-qh5c0fIzKaOF27SD-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="802" width="118" height="27" as="geometry" />
+          <mxGeometry x="355" y="767" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-18" value="订单信息的查看与搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="379" y="429" width="141" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="82y-qh5c0fIzKaOF27SD-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="888" width="118" height="27" as="geometry" />
-        </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-20" value="寄养信息的编辑与撤回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="379" y="240" width="135" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="82y-qh5c0fIzKaOF27SD-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429.14289202008945" y="739.0000523158483" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-21" value="资料修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="346" y="647" width="118" height="23" as="geometry" />
@@ -80,7 +76,7 @@
           <mxGeometry x="374" y="502" width="158" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-40" value="公告查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="346" y="738" width="118" height="27" as="geometry" />
+          <mxGeometry x="355" y="855" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-49" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="362" y="584" width="118" height="27" as="geometry" />
