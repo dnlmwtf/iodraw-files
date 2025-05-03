@@ -38,10 +38,10 @@
             <mxPoint x="239.2000732421875" y="1113.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x_Rnko3EeMT6BJlWxD52-33" value="提示用户余额不足" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="x_Rnko3EeMT6BJlWxD52-33" value="提示用户积分不足" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="186" y="799" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="x_Rnko3EeMT6BJlWxD52-34" value="扣除余额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="x_Rnko3EeMT6BJlWxD52-34" value="扣除积分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="874" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="x_Rnko3EeMT6BJlWxD52-35" value="管理员发货" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
