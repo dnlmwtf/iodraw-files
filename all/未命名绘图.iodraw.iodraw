@@ -19,11 +19,14 @@
         <mxCell id="x_Rnko3EeMT6BJlWxD52-30" value="不可以下单，重新选择宠物用品" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="327" y="595" width="253" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="x_Rnko3EeMT6BJlWxD52-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x_Rnko3EeMT6BJlWxD52-31" target="x_Rnko3EeMT6BJlWxD52-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x_Rnko3EeMT6BJlWxD52-31" value="用户余额是否充足?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="102" y="549" width="183" height="183" as="geometry" />
         </mxCell>
         <mxCell id="x_Rnko3EeMT6BJlWxD52-32" value="提交订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="745" width="124" height="48" as="geometry" />
+          <mxGeometry x="31" y="793" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="x_Rnko3EeMT6BJlWxD52-53" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x_Rnko3EeMT6BJlWxD52-33">
           <mxGeometry relative="1" as="geometry">
@@ -109,9 +112,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="x_Rnko3EeMT6BJlWxD52-55" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.403;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x_Rnko3EeMT6BJlWxD52-31" target="x_Rnko3EeMT6BJlWxD52-32">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
