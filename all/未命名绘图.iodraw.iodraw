@@ -62,6 +62,11 @@
         <mxCell id="82y-qh5c0fIzKaOF27SD-3" value="宠物寄养" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="203" y="207" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="82y-qh5c0fIzKaOF27SD-84" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354.8571777343752" y="359.57147216796875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-4" value="宠物用品兑换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="203" y="366" width="120" height="60" as="geometry" />
         </mxCell>
