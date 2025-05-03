@@ -49,13 +49,8 @@
         <mxCell id="82y-qh5c0fIzKaOF27SD-20" value="寄养信息的编辑与撤回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="379" y="240" width="135" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="82y-qh5c0fIzKaOF27SD-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="429.14289202008945" y="739.0000523158483" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-21" value="资料修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="346" y="647" width="118" height="23" as="geometry" />
+          <mxGeometry x="357" y="723" width="118" height="23" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-22" value="寄养申请的发起" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377" y="281" width="118" height="27" as="geometry" />
@@ -67,19 +62,19 @@
           <mxGeometry x="377" y="386" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-25" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="371" y="545" width="118" height="27" as="geometry" />
+          <mxGeometry x="347" y="634" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-26" value="流浪宠物信息的上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377" y="465" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-27" value="流浪宠物信息的查看与搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="502" width="158" height="27" as="geometry" />
+          <mxGeometry x="347" y="553" width="158" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-40" value="公告查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="855" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-49" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="584" width="118" height="27" as="geometry" />
+          <mxGeometry x="351" y="673" width="118" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
