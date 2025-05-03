@@ -11,13 +11,13 @@
           <mxGeometry x="242" y="118" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="x_Rnko3EeMT6BJlWxD52-3" value="宠物用品数量是否充足?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="106" y="217" width="215" height="215" as="geometry" />
+          <mxGeometry x="170" y="230" width="215" height="215" as="geometry" />
         </mxCell>
         <mxCell id="x_Rnko3EeMT6BJlWxD52-4" value="填写收货信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="114" y="513" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="x_Rnko3EeMT6BJlWxD52-5" value="不可以下单，重新选择宠物用品" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="322" y="504" width="253" height="66" as="geometry" />
+          <mxGeometry x="399" y="460" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="x_Rnko3EeMT6BJlWxD52-6" value="用户余额是否充足?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="102" y="620" width="183" height="183" as="geometry" />
