@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="82y-qh5c0fIzKaOF27SD-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="82y-qh5c0fIzKaOF27SD-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;rotation=-3;" vertex="1" parent="1">
           <mxGeometry x="19" y="453" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-2" value="宠物领养" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -75,9 +75,6 @@
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-49" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="702.5" width="118" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="82y-qh5c0fIzKaOF27SD-62" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="89" y="437" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
