@@ -4,13 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="82y-qh5c0fIzKaOF27SD-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="181.14292689732156" y="499" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="371" width="120" height="60" as="geometry" />
+          <mxGeometry x="19" y="453" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-2" value="宠物领养" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="206" y="48" width="120" height="60" as="geometry" />
