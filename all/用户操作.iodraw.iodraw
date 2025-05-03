@@ -94,12 +94,6 @@
             <mxPoint x="354.8571777343752" y="716.7142857142858" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="82y-qh5c0fIzKaOF27SD-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="82y-qh5c0fIzKaOF27SD-6" target="82y-qh5c0fIzKaOF27SD-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="82y-qh5c0fIzKaOF27SD-92" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="82y-qh5c0fIzKaOF27SD-6" target="82y-qh5c0fIzKaOF27SD-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-6" value="用户管理员模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="686" width="120" height="60" as="geometry" />
         </mxCell>
@@ -121,17 +115,11 @@
         <mxCell id="82y-qh5c0fIzKaOF27SD-13" value="寄养信息的查看" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="377" y="195" width="144" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="82y-qh5c0fIzKaOF27SD-16" value="积分充值" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="777" width="118" height="27" as="geometry" />
-        </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-18" value="订单的发货" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="359.5" y="426" width="141" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-20" value="寄养房间的分配" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379" y="240" width="135" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="82y-qh5c0fIzKaOF27SD-21" value="资料修改" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="746" width="118" height="23" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-22" value="寄养房间的增删改查" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="377" y="281" width="118" height="27" as="geometry" />
@@ -155,7 +143,7 @@
           <mxGeometry x="392" y="873" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-49" value="管理员信息的增删改查" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="702.5" width="118" height="27" as="geometry" />
+          <mxGeometry x="355" y="709" width="118" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
