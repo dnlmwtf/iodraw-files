@@ -101,7 +101,7 @@
           <mxGeometry x="108.5" y="747" width="103" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-70" value="领养记录表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="219.5" y="747" width="103" height="37" as="geometry" />
+          <mxGeometry x="289" y="929" width="103" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-71" value="宠物信息表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340.5" y="747" width="103" height="37" as="geometry" />
@@ -124,8 +124,8 @@
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-77" value="订单信息表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340.5" y="801" width="103" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="Xm9faSs1aIUUdzHeTCw1-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="219.5" y="858" width="103" height="37" as="geometry" />
+        <mxCell id="Xm9faSs1aIUUdzHeTCw1-78" value="用户信息表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="747" width="103" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="338" y="863" width="103" height="37" as="geometry" />
