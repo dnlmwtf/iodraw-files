@@ -145,7 +145,7 @@
         <mxCell id="82y-qh5c0fIzKaOF27SD-25" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="666" width="118" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="82y-qh5c0fIzKaOF27SD-26" value="流浪宠物信息的上报" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="82y-qh5c0fIzKaOF27SD-26" value="上报信息的删除查询和搜索" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="347" y="508" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-27" value="流浪宠物信息的查看与搜索" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
