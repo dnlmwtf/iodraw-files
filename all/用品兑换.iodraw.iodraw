@@ -70,10 +70,10 @@
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-58" value="修改个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="346" y="491" width="103" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="Xm9faSs1aIUUdzHeTCw1-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xm9faSs1aIUUdzHeTCw1-59" value="修改密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="114" y="545" width="103" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="Xm9faSs1aIUUdzHeTCw1-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xm9faSs1aIUUdzHeTCw1-60" value="查看宠物信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="545" width="103" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
