@@ -10,7 +10,7 @@
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="137" width="350" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xm9faSs1aIUUdzHeTCw1-37" value="终端设备（PC）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xm9faSs1aIUUdzHeTCw1-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="226" width="284" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-38" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -22,11 +22,14 @@
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-41" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="493" y="226" width="60" height="496" as="geometry" />
         </mxCell>
-        <mxCell id="Xm9faSs1aIUUdzHeTCw1-42" value="终端设备（PC）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xm9faSs1aIUUdzHeTCw1-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="193" y="480" width="284" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="233" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="233" width="103" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm9faSs1aIUUdzHeTCw1-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="243" width="103" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
