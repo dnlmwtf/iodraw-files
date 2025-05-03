@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="MA4Q_h-bMcdrVJFuZyhO">
-    <mxGraphModel dx="2100" dy="1258" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="1048" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,7 +27,7 @@
             <mxPoint x="287.2000732421875" y="793.6000366210938" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x_Rnko3EeMT6BJlWxD52-31" value="用户余额是否充足?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="x_Rnko3EeMT6BJlWxD52-31" value="用户积分是否充足?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="102" y="549" width="183" height="183" as="geometry" />
         </mxCell>
         <mxCell id="x_Rnko3EeMT6BJlWxD52-32" value="提交订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
