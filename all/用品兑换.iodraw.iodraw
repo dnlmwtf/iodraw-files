@@ -163,6 +163,12 @@
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-95" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6" y="740" width="86" height="183" as="geometry" />
         </mxCell>
+        <mxCell id="Xm9faSs1aIUUdzHeTCw1-96" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6" y="939" width="86" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm9faSs1aIUUdzHeTCw1-97" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="66.5" y="109" width="86" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
