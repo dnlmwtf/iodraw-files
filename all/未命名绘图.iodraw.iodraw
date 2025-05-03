@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="18" y="469" width="120" height="60" as="geometry" />
+          <mxGeometry x="35" y="371" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-2" value="宠物领养" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="206" y="48" width="120" height="60" as="geometry" />
@@ -80,9 +80,6 @@
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-49" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="702.5" width="118" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="82y-qh5c0fIzKaOF27SD-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="340" width="120" height="141" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
