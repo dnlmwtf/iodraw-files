@@ -20,7 +20,7 @@
           <mxGeometry x="127" y="452" width="199" height="199" as="geometry" />
         </mxCell>
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-6" value="提示密码或者账号错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="196" y="845" width="221" height="48" as="geometry" />
+          <mxGeometry x="201" y="704" width="221" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-7" value="系统为用户生成唯一的token" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="944" width="252" height="66" as="geometry" />
