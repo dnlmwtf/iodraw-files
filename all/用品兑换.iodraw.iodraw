@@ -14,7 +14,7 @@
           <mxGeometry x="124" y="255" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-4" value="返回登录界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="148" y="353" width="157" height="48" as="geometry" />
+          <mxGeometry x="148.5" y="371" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-5" value="账号和密码是否正确?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="127" y="452" width="199" height="199" as="geometry" />
