@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="MA4Q_h-bMcdrVJFuZyhO">
-    <mxGraphModel dx="1767" dy="780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1660" dy="780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,6 +126,12 @@
         </mxCell>
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-78" value="用户信息表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="747" width="103" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm9faSs1aIUUdzHeTCw1-83" value="mysql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="97" y="939" width="475" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xm9faSs1aIUUdzHeTCw1-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="629" y="983" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
