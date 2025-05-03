@@ -115,10 +115,10 @@
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-74" value="寄养信息表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="751" width="103" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="Xm9faSs1aIUUdzHeTCw1-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xm9faSs1aIUUdzHeTCw1-75" value="上报信息表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="108.5" y="858" width="103" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="Xm9faSs1aIUUdzHeTCw1-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xm9faSs1aIUUdzHeTCw1-76" value="房间信息表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="452" y="801" width="103" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-77" value="订单信息表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
