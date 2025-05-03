@@ -23,7 +23,7 @@
           <mxGeometry x="216" y="625" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-7" value="公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="802" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="835" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-8" value="宠物信息查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="371" y="11" width="118" height="27" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="366" y="599" width="118" height="23" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="297" width="118" height="27" as="geometry" />
+          <mxGeometry x="377" y="281" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="341" width="118" height="27" as="geometry" />
