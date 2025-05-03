@@ -151,7 +151,7 @@
         <mxCell id="Xm9faSs1aIUUdzHeTCw1-91" value="mysql8.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="346" y="1070" width="101" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="Xm9faSs1aIUUdzHeTCw1-92" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xm9faSs1aIUUdzHeTCw1-92" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="16.5" y="59" width="86" height="60" as="geometry" />
         </mxCell>
       </root>
