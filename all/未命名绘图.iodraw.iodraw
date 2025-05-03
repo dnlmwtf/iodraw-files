@@ -76,6 +76,17 @@
         <mxCell id="82y-qh5c0fIzKaOF27SD-49" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="702.5" width="118" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="82y-qh5c0fIzKaOF27SD-54" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="315" y="476" as="sourcePoint" />
+            <mxPoint x="365" y="426" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="365" y="476" />
+              <mxPoint x="263" y="467" />
+              <mxPoint x="315" y="426" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
