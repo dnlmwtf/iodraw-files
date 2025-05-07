@@ -42,7 +42,7 @@
         <mxCell id="82y-qh5c0fIzKaOF27SD-78" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="82y-qh5c0fIzKaOF27SD-2" target="82y-qh5c0fIzKaOF27SD-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q4BRMxRtXaGkbgVin0W--2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-2">
+        <mxCell id="Q4BRMxRtXaGkbgVin0W--2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="82y-qh5c0fIzKaOF27SD-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="371.5999450683594" y="132.80001831054688" as="targetPoint" />
           </mxGeometry>
@@ -72,7 +72,7 @@
         <mxCell id="82y-qh5c0fIzKaOF27SD-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="82y-qh5c0fIzKaOF27SD-4" target="82y-qh5c0fIzKaOF27SD-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="82y-qh5c0fIzKaOF27SD-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="82y-qh5c0fIzKaOF27SD-4" target="82y-qh5c0fIzKaOF27SD-18" edge="1">
+        <mxCell id="82y-qh5c0fIzKaOF27SD-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="82y-qh5c0fIzKaOF27SD-4" target="82y-qh5c0fIzKaOF27SD-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-4" value="宠物用品兑换" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -81,7 +81,7 @@
         <mxCell id="82y-qh5c0fIzKaOF27SD-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="82y-qh5c0fIzKaOF27SD-5" target="82y-qh5c0fIzKaOF27SD-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="82y-qh5c0fIzKaOF27SD-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="82y-qh5c0fIzKaOF27SD-5" edge="1" target="82y-qh5c0fIzKaOF27SD-27">
+        <mxCell id="82y-qh5c0fIzKaOF27SD-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="82y-qh5c0fIzKaOF27SD-5" target="82y-qh5c0fIzKaOF27SD-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="347" y="570" as="targetPoint" />
           </mxGeometry>
@@ -99,10 +99,10 @@
             <mxPoint x="354.8571777343752" y="716.7142857142858" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q4BRMxRtXaGkbgVin0W--9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-6" target="Q4BRMxRtXaGkbgVin0W--5">
+        <mxCell id="Q4BRMxRtXaGkbgVin0W--9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="82y-qh5c0fIzKaOF27SD-6" target="Q4BRMxRtXaGkbgVin0W--5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q4BRMxRtXaGkbgVin0W--10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-6" target="Q4BRMxRtXaGkbgVin0W--4">
+        <mxCell id="Q4BRMxRtXaGkbgVin0W--10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="82y-qh5c0fIzKaOF27SD-6" target="Q4BRMxRtXaGkbgVin0W--4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-6" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -156,13 +156,13 @@
         <mxCell id="82y-qh5c0fIzKaOF27SD-49" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="709" width="118" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="Q4BRMxRtXaGkbgVin0W--1" value="放弃领养" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q4BRMxRtXaGkbgVin0W--1" value="放弃领养" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="372" y="127" width="118" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="Q4BRMxRtXaGkbgVin0W--4" value="资料修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q4BRMxRtXaGkbgVin0W--4" value="资料修改" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="746" width="118" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="Q4BRMxRtXaGkbgVin0W--5" value="积分充值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q4BRMxRtXaGkbgVin0W--5" value="积分充值" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="630" width="118" height="27" as="geometry" />
         </mxCell>
       </root>
