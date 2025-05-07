@@ -139,7 +139,7 @@
           <mxGeometry x="355" y="666" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-26" value="流浪宠物信息的上报" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="347" y="508" width="152" height="27" as="geometry" />
+          <mxGeometry x="348.5" y="482" width="152" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-27" value="流浪宠物信息的查看与搜索" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="347" y="553" width="158" height="27" as="geometry" />
@@ -154,7 +154,10 @@
           <mxGeometry x="372" y="127" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="Q4BRMxRtXaGkbgVin0W--4" value="领养" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="391" y="71" width="118" height="27" as="geometry" />
+          <mxGeometry x="355" y="597" width="118" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4BRMxRtXaGkbgVin0W--5" value="领养" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="597" width="118" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
