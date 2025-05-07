@@ -126,7 +126,7 @@
         <mxCell id="82y-qh5c0fIzKaOF27SD-20" value="寄养信息表的编辑与撤回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379" y="240" width="135" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="82y-qh5c0fIzKaOF27SD-22" value="寄养房间的增删改查" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="82y-qh5c0fIzKaOF27SD-22" value="寄养申请的发起" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="377" y="281" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-23" value="宠物用品的增删改查" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
