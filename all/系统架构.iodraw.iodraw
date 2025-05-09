@@ -38,7 +38,7 @@
           <mxGeometry x="16.5" y="694" width="82" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-14" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="446" y="165" width="56" height="286" as="geometry" />
+          <mxGeometry x="454" y="164" width="56" height="286" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-16" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="149" y="102.5" width="90" height="35" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="277" y="254" width="76" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-33" value="管理用户信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="254" width="70" height="25" as="geometry" />
+          <mxGeometry x="359" y="254" width="75" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-38" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="122" y="321" width="70" height="25" as="geometry" />
