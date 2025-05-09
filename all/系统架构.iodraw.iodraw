@@ -64,7 +64,7 @@
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-25" value="管理宠物信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337" y="170" width="92" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="dsR8dnz7LIltTr-uQQ6x-26" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dsR8dnz7LIltTr-uQQ6x-26" value="管理领养记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="113" y="215" width="81" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-27" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
