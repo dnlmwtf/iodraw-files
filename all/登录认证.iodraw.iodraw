@@ -29,7 +29,7 @@
           <mxGeometry x="54" y="829" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="A9X8AfVYQYr8F270AGGC-9" value="流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="164" y="1120" width="126" height="48" as="geometry" />
+          <mxGeometry x="162.5" y="931" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="A9X8AfVYQYr8F270AGGC-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="A9X8AfVYQYr8F270AGGC-1" target="A9X8AfVYQYr8F270AGGC-2">
           <mxGeometry relative="1" as="geometry">
@@ -74,13 +74,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="146" y="1095" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A9X8AfVYQYr8F270AGGC-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.81;entryY=0;rounded=0;" edge="1" parent="1" source="A9X8AfVYQYr8F270AGGC-6" target="A9X8AfVYQYr8F270AGGC-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="307" y="1095" />
             </Array>
           </mxGeometry>
         </mxCell>
