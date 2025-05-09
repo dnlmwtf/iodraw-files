@@ -59,7 +59,16 @@
           <mxGeometry x="202" y="174" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-24" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="144" y="194" width="70" height="25" as="geometry" />
+          <mxGeometry x="282" y="174" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dsR8dnz7LIltTr-uQQ6x-25" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="174" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dsR8dnz7LIltTr-uQQ6x-26" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="124" y="208" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dsR8dnz7LIltTr-uQQ6x-27" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="224" width="70" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
