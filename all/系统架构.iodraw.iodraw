@@ -77,19 +77,16 @@
           <mxGeometry x="360" y="210" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-30" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="124" y="242" width="70" height="25" as="geometry" />
+          <mxGeometry x="129" y="256" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-31" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="202" y="245" width="70" height="25" as="geometry" />
+          <mxGeometry x="202" y="259" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-32" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="248" width="70" height="25" as="geometry" />
+          <mxGeometry x="280" y="265" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-33" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="357" y="248" width="70" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="dsR8dnz7LIltTr-uQQ6x-37" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="357" y="275" width="70" height="25" as="geometry" />
+          <mxGeometry x="357" y="259" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-38" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="122" y="321" width="70" height="25" as="geometry" />
@@ -162,6 +159,9 @@
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-64" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="484" y="534" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dsR8dnz7LIltTr-uQQ6x-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dsR8dnz7LIltTr-uQQ6x-26" target="dsR8dnz7LIltTr-uQQ6x-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
