@@ -28,7 +28,7 @@
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-8" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="12" y="27" width="82" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dsR8dnz7LIltTr-uQQ6x-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dsR8dnz7LIltTr-uQQ6x-9" value="对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="12" y="100" width="84" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="572" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsR8dnz7LIltTr-uQQ6x-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147" y="91" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
