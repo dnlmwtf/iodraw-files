@@ -22,6 +22,11 @@
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-5" value="不可以下单，重新选择宠物用品" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="311" y="595" width="253" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="yE5jbQh5Hfx8_q5yfd94-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yE5jbQh5Hfx8_q5yfd94-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50.00006103515625" y="779.2000122070312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-6" value="用户积分是否充足?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="98" y="571" width="183" height="183" as="geometry" />
         </mxCell>
