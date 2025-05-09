@@ -32,7 +32,7 @@
           <mxGeometry x="195" y="945" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-9" value="扣除积分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="28" y="1196" width="125" height="48" as="geometry" />
+          <mxGeometry x="26" y="1031" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-10" value="管理员发货" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1294" width="140" height="48" as="geometry" />
@@ -74,13 +74,6 @@
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yE5jbQh5Hfx8_q5yfd94-4" target="yE5jbQh5Hfx8_q5yfd94-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yE5jbQh5Hfx8_q5yfd94-19" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="yE5jbQh5Hfx8_q5yfd94-6" target="yE5jbQh5Hfx8_q5yfd94-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="90" y="928" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-20" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yE5jbQh5Hfx8_q5yfd94-6" target="yE5jbQh5Hfx8_q5yfd94-8">
