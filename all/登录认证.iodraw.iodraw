@@ -1,78 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
-  <diagram name="第 1 页" id="IXAsnGivZH01BdCvFboT">
+  <diagram name="第 1 页" id="v_p1_S-OUvHlHWVvqeeK">
     <mxGraphModel dx="1290" dy="629" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="A9X8AfVYQYr8F270AGGC-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="20" width="93" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="A9X8AfVYQYr8F270AGGC-2" value="登录界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="163.5" y="89" width="125" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="A9X8AfVYQYr8F270AGGC-3" value="用户输入账号和密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="124" y="159" width="204" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="A9X8AfVYQYr8F270AGGC-4" value="返回登录界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="148.5" y="233" width="157" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="A9X8AfVYQYr8F270AGGC-5" value="账号和密码是否正确?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="127.5" y="302" width="199" height="199" as="geometry" />
-        </mxCell>
-        <mxCell id="A9X8AfVYQYr8F270AGGC-6" value="提示密码或者账号错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="197" y="644" width="221" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="A9X8AfVYQYr8F270AGGC-7" value="系统为用户生成唯一的token" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="14" y="703" width="252" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="A9X8AfVYQYr8F270AGGC-8" value="进入系统首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="54" y="829" width="157" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="A9X8AfVYQYr8F270AGGC-9" value="流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="162.5" y="931" width="126" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="A9X8AfVYQYr8F270AGGC-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="A9X8AfVYQYr8F270AGGC-1" target="A9X8AfVYQYr8F270AGGC-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A9X8AfVYQYr8F270AGGC-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="A9X8AfVYQYr8F270AGGC-2" target="A9X8AfVYQYr8F270AGGC-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A9X8AfVYQYr8F270AGGC-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="A9X8AfVYQYr8F270AGGC-3" target="A9X8AfVYQYr8F270AGGC-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A9X8AfVYQYr8F270AGGC-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="A9X8AfVYQYr8F270AGGC-4" target="A9X8AfVYQYr8F270AGGC-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A9X8AfVYQYr8F270AGGC-14" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="A9X8AfVYQYr8F270AGGC-5" target="A9X8AfVYQYr8F270AGGC-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="307" y="637" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A9X8AfVYQYr8F270AGGC-15" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="A9X8AfVYQYr8F270AGGC-5" target="A9X8AfVYQYr8F270AGGC-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="146" y="637" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A9X8AfVYQYr8F270AGGC-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="A9X8AfVYQYr8F270AGGC-7" target="A9X8AfVYQYr8F270AGGC-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A9X8AfVYQYr8F270AGGC-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.828;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A9X8AfVYQYr8F270AGGC-6" target="A9X8AfVYQYr8F270AGGC-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
