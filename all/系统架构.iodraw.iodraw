@@ -80,7 +80,7 @@
           <mxGeometry x="113" y="254" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-31" value="管理上报信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="202" y="259" width="70" height="25" as="geometry" />
+          <mxGeometry x="198" y="254" width="76" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-32" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="282" y="254" width="70" height="25" as="geometry" />
