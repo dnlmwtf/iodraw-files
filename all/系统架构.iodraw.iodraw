@@ -148,7 +148,7 @@
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-64" value="上报信息表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="178" y="567" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="dsR8dnz7LIltTr-uQQ6x-68" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dsR8dnz7LIltTr-uQQ6x-68" value="领养记录表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="362" y="567" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-69" value="windoows10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
