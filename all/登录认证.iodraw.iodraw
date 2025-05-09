@@ -23,10 +23,10 @@
           <mxGeometry x="197" y="644" width="221" height="48" as="geometry" />
         </mxCell>
         <mxCell id="A9X8AfVYQYr8F270AGGC-7" value="系统为用户生成唯一的token" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="906" width="252" height="66" as="geometry" />
+          <mxGeometry x="14" y="703" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="A9X8AfVYQYr8F270AGGC-8" value="进入系统首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="68" y="1022" width="157" height="48" as="geometry" />
+          <mxGeometry x="54" y="829" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="A9X8AfVYQYr8F270AGGC-9" value="流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="164" y="1120" width="126" height="48" as="geometry" />
