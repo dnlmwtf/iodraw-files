@@ -119,9 +119,9 @@
           <mxGeometry x="205" y="404" width="74" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-50" value="上报流浪宠物信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="291.5" y="406" width="101" height="25" as="geometry" />
+          <mxGeometry x="308" y="404" width="101" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="dsR8dnz7LIltTr-uQQ6x-56" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dsR8dnz7LIltTr-uQQ6x-56" value="管理员信息表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="124" y="472" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-57" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
