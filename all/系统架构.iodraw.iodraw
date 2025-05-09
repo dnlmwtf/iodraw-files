@@ -83,7 +83,7 @@
           <mxGeometry x="202" y="259" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-32" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="265" width="70" height="25" as="geometry" />
+          <mxGeometry x="282" y="254" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-33" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="357" y="259" width="70" height="25" as="geometry" />
@@ -123,15 +123,6 @@
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-51" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="357" y="384" width="70" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="dsR8dnz7LIltTr-uQQ6x-52" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="126" y="424" width="70" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="dsR8dnz7LIltTr-uQQ6x-53" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="287" y="419" width="70" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="dsR8dnz7LIltTr-uQQ6x-54" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="419" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-56" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="124" y="472" width="70" height="25" as="geometry" />
