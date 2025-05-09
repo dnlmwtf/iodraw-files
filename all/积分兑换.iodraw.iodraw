@@ -38,10 +38,10 @@
           <mxGeometry x="19.5" y="964" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-11" value="用户收货" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="22" y="1099" width="124" height="48" as="geometry" />
+          <mxGeometry x="28" y="1041" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-12" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="146" y="1491" width="94" height="48" as="geometry" />
+          <mxGeometry x="136" y="1110" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="yE5jbQh5Hfx8_q5yfd94-1" target="yE5jbQh5Hfx8_q5yfd94-2">
           <mxGeometry relative="1" as="geometry">
@@ -89,20 +89,6 @@
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yE5jbQh5Hfx8_q5yfd94-10" target="yE5jbQh5Hfx8_q5yfd94-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yE5jbQh5Hfx8_q5yfd94-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.04;rounded=0;" edge="1" parent="1" source="yE5jbQh5Hfx8_q5yfd94-11" target="yE5jbQh5Hfx8_q5yfd94-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="90" y="1466" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yE5jbQh5Hfx8_q5yfd94-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.04;rounded=0;" edge="1" parent="1" source="yE5jbQh5Hfx8_q5yfd94-8" target="yE5jbQh5Hfx8_q5yfd94-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="296" y="1466" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
