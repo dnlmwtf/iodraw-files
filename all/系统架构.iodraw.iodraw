@@ -14,7 +14,7 @@
           <mxGeometry x="109" y="166" width="344" height="139" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-6" value="mysql8.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="113" y="612" width="389" height="58" as="geometry" />
+          <mxGeometry x="113" y="612" width="408" height="58" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="113" y="694" width="383" height="58" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="113" y="316" width="340" height="139" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="113" y="464" width="393" height="139" as="geometry" />
+          <mxGeometry x="113" y="464" width="407" height="139" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-21" value="查看公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="113" y="168" width="70" height="25" as="geometry" />
