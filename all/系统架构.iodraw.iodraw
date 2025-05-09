@@ -124,8 +124,8 @@
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-56" value="管理员信息表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="124" y="472" width="79" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="dsR8dnz7LIltTr-uQQ6x-57" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="135" y="521" width="70" height="25" as="geometry" />
+        <mxCell id="dsR8dnz7LIltTr-uQQ6x-57" value="宠物用品表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="124" y="521" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-58" value="用户信息表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228" y="476" width="70" height="25" as="geometry" />
