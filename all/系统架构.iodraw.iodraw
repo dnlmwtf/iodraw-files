@@ -52,11 +52,14 @@
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="113" y="464" width="381" height="139" as="geometry" />
         </mxCell>
-        <mxCell id="dsR8dnz7LIltTr-uQQ6x-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsR8dnz7LIltTr-uQQ6x-21" target="dsR8dnz7LIltTr-uQQ6x-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-21" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="124" y="174" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dsR8dnz7LIltTr-uQQ6x-23" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="202" y="174" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dsR8dnz7LIltTr-uQQ6x-24" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="194" width="70" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
