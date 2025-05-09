@@ -28,7 +28,7 @@
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-10" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="11" y="166" width="89" height="287" as="geometry" />
         </mxCell>
-        <mxCell id="dsR8dnz7LIltTr-uQQ6x-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dsR8dnz7LIltTr-uQQ6x-11" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="16.5" y="468.5" width="79" height="134.5" as="geometry" />
         </mxCell>
         <mxCell id="dsR8dnz7LIltTr-uQQ6x-12" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
