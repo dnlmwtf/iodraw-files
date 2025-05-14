@@ -8,7 +8,7 @@
           <mxGeometry x="2018" y="20" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-2" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="818" y="97" width="108" height="48" as="geometry" />
+          <mxGeometry x="394" y="87" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-3" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3045" y="118" width="92" height="48" as="geometry" />
@@ -84,13 +84,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2471" y="192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="on_PMf5-5uH_7J0JDQlf-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="on_PMf5-5uH_7J0JDQlf-3" target="on_PMf5-5uH_7J0JDQlf-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2646" y="192" />
             </Array>
           </mxGeometry>
         </mxCell>
