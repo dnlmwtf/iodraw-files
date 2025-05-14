@@ -64,8 +64,8 @@
         <mxCell id="on_PMf5-5uH_7J0JDQlf-20" value="宠&#xa;物&#xa;用&#xa;品&#xa;购&#xa;买" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1424" y="240" width="50" height="146" as="geometry" />
         </mxCell>
-        <mxCell id="on_PMf5-5uH_7J0JDQlf-21" value="订单信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="271" width="125" height="48" as="geometry" />
+        <mxCell id="on_PMf5-5uH_7J0JDQlf-21" value="订&#xa;单&#xa;信&#xa;息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="237" width="125" height="151" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-22" value="流浪宠物上报" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1579" y="632" width="158" height="48" as="geometry" />
