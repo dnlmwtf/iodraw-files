@@ -38,10 +38,10 @@
           <mxGeometry x="583" y="224" width="58" height="173" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-12" value="订&#xa;单&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="657" y="252" width="157" height="48" as="geometry" />
+          <mxGeometry x="657" y="222" width="70" height="166" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-13" value="流浪宠物上报管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="829" y="259" width="190" height="48" as="geometry" />
+          <mxGeometry x="736" y="267" width="190" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-14" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1066" y="262" width="125" height="48" as="geometry" />
