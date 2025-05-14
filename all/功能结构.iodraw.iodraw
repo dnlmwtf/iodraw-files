@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="ywOv4KSk7uWAOmXf6TYi">
-    <mxGraphModel dx="2150" dy="1048" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1843" dy="899" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="on_PMf5-5uH_7J0JDQlf-9" value="房&#xa;间&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="592" y="214" width="62" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="on_PMf5-5uH_7J0JDQlf-10" value="寄养信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="on_PMf5-5uH_7J0JDQlf-10" value="寄&#xa;养&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="725" y="217" width="84" height="181" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-11" value="宠物用品管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
