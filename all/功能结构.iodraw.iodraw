@@ -4,6 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="on_PMf5-5uH_7J0JDQlf-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="on_PMf5-5uH_7J0JDQlf-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504.4285888671875" y="89.85716029575894" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-1" value="公益宠物领养系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="779" y="14" width="188" height="48" as="geometry" />
         </mxCell>
