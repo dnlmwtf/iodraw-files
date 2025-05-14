@@ -32,10 +32,10 @@
           <mxGeometry x="447" y="223" width="62" height="180" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-10" value="寄&#xa;养&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="522" y="220" width="84" height="181" as="geometry" />
+          <mxGeometry x="522" y="220" width="53" height="181" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-11" value="宠物用品管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1373" y="217" width="157" height="48" as="geometry" />
+          <mxGeometry x="583" y="235" width="75" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-12" value="订单信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1580" y="217" width="157" height="48" as="geometry" />
