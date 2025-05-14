@@ -32,7 +32,7 @@
           <mxGeometry x="592" y="214" width="62" height="180" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-10" value="寄养信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1166" y="217" width="157" height="48" as="geometry" />
+          <mxGeometry x="725" y="217" width="84" height="181" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-11" value="宠物用品管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1373" y="217" width="157" height="48" as="geometry" />
@@ -84,20 +84,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3091" y="93" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="on_PMf5-5uH_7J0JDQlf-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="on_PMf5-5uH_7J0JDQlf-2" target="on_PMf5-5uH_7J0JDQlf-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1882" y="192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="on_PMf5-5uH_7J0JDQlf-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.56;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="on_PMf5-5uH_7J0JDQlf-2" target="on_PMf5-5uH_7J0JDQlf-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2280" y="192" />
             </Array>
           </mxGeometry>
         </mxCell>
