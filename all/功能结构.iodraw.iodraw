@@ -47,7 +47,7 @@
           <mxGeometry x="799" y="228" width="54" height="163" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-15" value="个&#xa;人&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="860" y="222" width="70" height="83" as="geometry" />
+          <mxGeometry x="860" y="222" width="70" height="165" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-16" value="登录注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2409" y="217" width="125" height="48" as="geometry" />
@@ -72,13 +72,6 @@
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-23" value="个人信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3696" y="217" width="158" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="on_PMf5-5uH_7J0JDQlf-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="on_PMf5-5uH_7J0JDQlf-1" target="on_PMf5-5uH_7J0JDQlf-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1141" y="93" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="on_PMf5-5uH_7J0JDQlf-1" target="on_PMf5-5uH_7J0JDQlf-3">
           <mxGeometry relative="1" as="geometry">
