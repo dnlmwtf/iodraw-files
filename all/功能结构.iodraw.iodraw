@@ -9,10 +9,8 @@
             <mxPoint x="504.4285888671875" y="89.85716029575894" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="on_PMf5-5uH_7J0JDQlf-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="on_PMf5-5uH_7J0JDQlf-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1209.5714983258931" y="117.28570556640636" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="on_PMf5-5uH_7J0JDQlf-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="on_PMf5-5uH_7J0JDQlf-1" target="on_PMf5-5uH_7J0JDQlf-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-1" value="公益宠物领养系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="779" y="14" width="188" height="48" as="geometry" />
@@ -93,7 +91,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-3" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1211" y="117" width="92" height="48" as="geometry" />
+          <mxGeometry x="1172" y="119" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-4" value="登&#xa;录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="68" y="214" width="59" height="189" as="geometry" />
