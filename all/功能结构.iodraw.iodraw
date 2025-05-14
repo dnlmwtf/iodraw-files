@@ -71,7 +71,7 @@
           <mxGeometry x="1579" y="632" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-23" value="个人信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1254" y="251" width="158" height="48" as="geometry" />
+          <mxGeometry x="1254" y="237" width="44" height="147" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
