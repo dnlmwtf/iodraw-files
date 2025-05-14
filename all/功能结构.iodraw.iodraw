@@ -28,8 +28,8 @@
         <mxCell id="on_PMf5-5uH_7J0JDQlf-8" value="领&#xa;养&#xa;记&#xa;录&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="470" y="217" width="74" height="179" as="geometry" />
         </mxCell>
-        <mxCell id="on_PMf5-5uH_7J0JDQlf-9" value="房间信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="959" y="217" width="158" height="48" as="geometry" />
+        <mxCell id="on_PMf5-5uH_7J0JDQlf-9" value="房&#xa;间&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="959" y="217" width="62" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-10" value="寄养信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1166" y="217" width="157" height="48" as="geometry" />
