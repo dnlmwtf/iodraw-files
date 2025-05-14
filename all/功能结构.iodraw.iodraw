@@ -53,7 +53,7 @@
           <mxGeometry x="1113" y="233" width="53" height="143" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-17" value="系&#xa;统&#xa;首&#xa;页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1225" y="275" width="52" height="48" as="geometry" />
+          <mxGeometry x="1175" y="237" width="52" height="136" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-18" value="领养记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1608" y="271" width="126" height="48" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="1579" y="632" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-23" value="个人信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1669" y="187" width="158" height="48" as="geometry" />
+          <mxGeometry x="1254" y="251" width="158" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
