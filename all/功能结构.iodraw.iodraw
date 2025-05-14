@@ -49,6 +49,15 @@
             <mxPoint x="743.2857491629466" y="221.2857317243304" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="on_PMf5-5uH_7J0JDQlf-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="on_PMf5-5uH_7J0JDQlf-2" target="on_PMf5-5uH_7J0JDQlf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="on_PMf5-5uH_7J0JDQlf-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="on_PMf5-5uH_7J0JDQlf-2" target="on_PMf5-5uH_7J0JDQlf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="on_PMf5-5uH_7J0JDQlf-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="on_PMf5-5uH_7J0JDQlf-2" target="on_PMf5-5uH_7J0JDQlf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-2" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="394" y="87" width="108" height="48" as="geometry" />
         </mxCell>
