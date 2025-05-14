@@ -56,7 +56,7 @@
           <mxGeometry x="1175" y="237" width="52" height="136" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-18" value="领养记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1608" y="271" width="126" height="48" as="geometry" />
+          <mxGeometry x="1305" y="272" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-19" value="寄养信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1573" y="355" width="125" height="48" as="geometry" />
@@ -70,7 +70,7 @@
         <mxCell id="on_PMf5-5uH_7J0JDQlf-22" value="流浪宠物上报" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1579" y="632" width="158" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="on_PMf5-5uH_7J0JDQlf-23" value="个人信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="on_PMf5-5uH_7J0JDQlf-23" value="个&#xa;人&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1254" y="237" width="44" height="147" as="geometry" />
         </mxCell>
       </root>
