@@ -53,16 +53,16 @@
           <mxGeometry x="1113" y="233" width="53" height="143" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-17" value="系统首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2584" y="217" width="124" height="48" as="geometry" />
+          <mxGeometry x="1225" y="275" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-18" value="领养记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2758" y="217" width="126" height="48" as="geometry" />
+          <mxGeometry x="1608" y="271" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-19" value="寄养信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2933" y="217" width="125" height="48" as="geometry" />
+          <mxGeometry x="1573" y="355" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-20" value="宠物用品购买" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3108" y="217" width="156" height="48" as="geometry" />
+          <mxGeometry x="1557.5" y="443" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-21" value="订单信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3314" y="217" width="125" height="48" as="geometry" />
