@@ -56,9 +56,9 @@
           <mxGeometry x="1175" y="237" width="52" height="136" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-18" value="领&#xa;养&#xa;记&#xa;录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1305" y="239" width="47" height="81" as="geometry" />
+          <mxGeometry x="1296" y="240" width="47" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="on_PMf5-5uH_7J0JDQlf-19" value="寄养信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="on_PMf5-5uH_7J0JDQlf-19" value="寄&#xa;养&#xa;信&#xa;息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1573" y="355" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-20" value="宠物用品购买" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
