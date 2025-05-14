@@ -62,7 +62,7 @@
           <mxGeometry x="1358" y="244" width="51" height="121" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-20" value="宠&#xa;物&#xa;用&#xa;品&#xa;购&#xa;买" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1557.5" y="443" width="156" height="48" as="geometry" />
+          <mxGeometry x="1424" y="240" width="39.5" height="146" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-21" value="订单信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1588.5" y="564" width="125" height="48" as="geometry" />
