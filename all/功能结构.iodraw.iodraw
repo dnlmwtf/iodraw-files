@@ -103,13 +103,13 @@
           <mxGeometry x="357" y="226.5" width="31" height="173" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-12" value="订&#xa;单&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="411" y="232.5" width="36" height="166" as="geometry" />
+          <mxGeometry x="397" y="229.5" width="34" height="166" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-13" value="流&#xa;浪&#xa;宠&#xa;物&#xa;上&#xa;报&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="465" y="237" width="34" height="166" as="geometry" />
+          <mxGeometry x="442" y="228" width="34" height="166" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-14" value="用&#xa;户&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="799" y="228" width="54" height="163" as="geometry" />
+          <mxGeometry x="489" y="229.5" width="54" height="163" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-15" value="个&#xa;人&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="860" y="222" width="70" height="165" as="geometry" />
