@@ -90,10 +90,10 @@
           <mxGeometry x="111" y="218" width="31" height="184" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-6" value="公&#xa;告&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="205" y="223" width="32" height="180" as="geometry" />
+          <mxGeometry x="157" y="219" width="32" height="180" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-7" value="宠&#xa;物&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="276" y="220" width="65" height="183" as="geometry" />
+          <mxGeometry x="204" y="223" width="30" height="183" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-8" value="领&#xa;养&#xa;记&#xa;录&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="357" y="223" width="74" height="179" as="geometry" />
