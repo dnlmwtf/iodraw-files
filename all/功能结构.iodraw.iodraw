@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-1" value="公益宠物领养系统" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="410" y="6" width="188" height="48" as="geometry" />
+          <mxGeometry x="356" y="14" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="on_PMf5-5uH_7J0JDQlf-2" target="on_PMf5-5uH_7J0JDQlf-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -81,7 +81,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-3" value="用户" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="703" y="81" width="92" height="48" as="geometry" />
+          <mxGeometry x="608" y="79" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-4" value="登&#xa;录" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="13" y="225" width="29" height="185" as="geometry" />
@@ -123,7 +123,7 @@
           <mxGeometry x="513" y="237" width="26" height="143" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-17" value="系&#xa;统&#xa;首&#xa;页" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="635" y="238.5" width="25" height="136" as="geometry" />
+          <mxGeometry x="552" y="237.5" width="25" height="136" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-18" value="领&#xa;养&#xa;记&#xa;录" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="703" y="236.5" width="32" height="138" as="geometry" />
@@ -141,7 +141,7 @@
           <mxGeometry x="861" y="246.5" width="31" height="146" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-23" value="个&#xa;人&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="670" y="233" width="30" height="147" as="geometry" />
+          <mxGeometry x="587" y="236.5" width="30" height="147" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
