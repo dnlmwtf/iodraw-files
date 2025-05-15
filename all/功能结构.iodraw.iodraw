@@ -105,10 +105,10 @@
           <mxGeometry x="535" y="230" width="28" height="165" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-16" value="登&#xa;录&#xa;注&#xa;册" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="598" y="237.5" width="53" height="143" as="geometry" />
+          <mxGeometry x="598" y="237.5" width="26" height="143" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-17" value="系&#xa;统&#xa;首&#xa;页" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1175" y="237" width="52" height="136" as="geometry" />
+          <mxGeometry x="635" y="238.5" width="25" height="136" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-18" value="领&#xa;养&#xa;记&#xa;录" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1296" y="240" width="47" height="138" as="geometry" />
