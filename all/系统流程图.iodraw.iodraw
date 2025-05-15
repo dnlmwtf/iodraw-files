@@ -50,8 +50,8 @@
         <mxCell id="H1XlgYkDsPXHe71CFFEM-6" value="寄养宠物" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="455" y="379" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H1XlgYkDsPXHe71CFFEM-7" value="寄养宠物" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="465" y="389" width="120" height="40" as="geometry" />
+        <mxCell id="H1XlgYkDsPXHe71CFFEM-7" value="流浪宠物信息上报" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="595" y="383" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
