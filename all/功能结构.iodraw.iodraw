@@ -4,11 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="on_PMf5-5uH_7J0JDQlf-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="on_PMf5-5uH_7J0JDQlf-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="504.4285888671875" y="89.85716029575894" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="on_PMf5-5uH_7J0JDQlf-1" target="on_PMf5-5uH_7J0JDQlf-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -37,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-2" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="394" y="87" width="108" height="48" as="geometry" />
+          <mxGeometry x="249" y="81" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="on_PMf5-5uH_7J0JDQlf-3" target="on_PMf5-5uH_7J0JDQlf-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
