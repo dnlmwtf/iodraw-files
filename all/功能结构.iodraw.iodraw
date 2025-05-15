@@ -94,13 +94,13 @@
           <mxGeometry x="1162" y="87" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-4" value="登&#xa;录" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="68" y="214" width="37" height="185" as="geometry" />
+          <mxGeometry x="68" y="214" width="29" height="185" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-5" value="系&#xa;统&#xa;首&#xa;页" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="133" y="217" width="60" height="184" as="geometry" />
+          <mxGeometry x="111" y="218" width="31" height="184" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-6" value="公&#xa;告&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="205" y="223" width="55" height="180" as="geometry" />
+          <mxGeometry x="205" y="223" width="32" height="180" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-7" value="宠&#xa;物&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="276" y="220" width="65" height="183" as="geometry" />
