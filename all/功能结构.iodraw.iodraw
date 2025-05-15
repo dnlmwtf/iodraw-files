@@ -66,7 +66,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-3" value="用户" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1162" y="87" width="92" height="48" as="geometry" />
+          <mxGeometry x="703" y="81" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-4" value="登&#xa;录" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="68" y="214" width="29" height="185" as="geometry" />
@@ -105,7 +105,7 @@
           <mxGeometry x="535" y="230" width="28" height="165" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-16" value="登&#xa;录&#xa;注&#xa;册" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1113" y="233" width="53" height="143" as="geometry" />
+          <mxGeometry x="598" y="237.5" width="53" height="143" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-17" value="系&#xa;统&#xa;首&#xa;页" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1175" y="237" width="52" height="136" as="geometry" />
