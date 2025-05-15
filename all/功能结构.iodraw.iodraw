@@ -13,12 +13,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-1" value="公益宠物领养系统" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="779" y="14" width="188" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="on_PMf5-5uH_7J0JDQlf-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="on_PMf5-5uH_7J0JDQlf-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="864.4285888671875" y="219.0000087193082" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="509" y="16" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="on_PMf5-5uH_7J0JDQlf-2" target="on_PMf5-5uH_7J0JDQlf-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -31,11 +26,6 @@
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="on_PMf5-5uH_7J0JDQlf-2" target="on_PMf5-5uH_7J0JDQlf-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="on_PMf5-5uH_7J0JDQlf-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="on_PMf5-5uH_7J0JDQlf-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="743.2857491629466" y="221.2857317243304" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="on_PMf5-5uH_7J0JDQlf-2" target="on_PMf5-5uH_7J0JDQlf-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
