@@ -117,10 +117,10 @@
           <mxGeometry x="742" y="240" width="31" height="132" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-20" value="宠&#xa;物&#xa;用&#xa;品&#xa;购&#xa;买" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1424" y="240" width="50" height="146" as="geometry" />
+          <mxGeometry x="786" y="241.5" width="35" height="146" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-21" value="订&#xa;单&#xa;信&#xa;息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1489" y="240" width="58" height="151" as="geometry" />
+          <mxGeometry x="831" y="237" width="58" height="151" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-22" value="流&#xa;浪&#xa;宠&#xa;物&#xa;上&#xa;报" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1562" y="242.5" width="51" height="146" as="geometry" />
