@@ -13,7 +13,7 @@
         <mxCell id="y6ZUBY8ASMLz8_EPeky4-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="y6ZUBY8ASMLz8_EPeky4-1" target="y6ZUBY8ASMLz8_EPeky4-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y6ZUBY8ASMLz8_EPeky4-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="y6ZUBY8ASMLz8_EPeky4-1" target="y6ZUBY8ASMLz8_EPeky4-6" edge="1">
+        <mxCell id="y6ZUBY8ASMLz8_EPeky4-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="y6ZUBY8ASMLz8_EPeky4-1" target="y6ZUBY8ASMLz8_EPeky4-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y6ZUBY8ASMLz8_EPeky4-1" value="上报信息表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
