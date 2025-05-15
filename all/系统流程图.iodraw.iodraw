@@ -38,7 +38,7 @@
           <mxGeometry x="41.5" y="379" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="宠物用品兑换" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="317" y="379" width="120" height="40" as="geometry" />
+          <mxGeometry x="199" y="379" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H1XlgYkDsPXHe71CFFEM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H1XlgYkDsPXHe71CFFEM-0" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry relative="1" as="geometry" />
@@ -70,7 +70,7 @@
         <mxCell id="H1XlgYkDsPXHe71CFFEM-13" value="收货确认" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="317" y="571" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H1XlgYkDsPXHe71CFFEM-14" value="管理员审核处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="H1XlgYkDsPXHe71CFFEM-14" value="管理员审核" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="603" y="484" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
