@@ -41,7 +41,7 @@
           <mxGeometry x="410" y="110" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aahmhj6BVuR9rZiZVrwE-6" value="宠物用品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="290" width="70" height="40" as="geometry" />
+          <mxGeometry x="350" y="305" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aahmhj6BVuR9rZiZVrwE-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="aahmhj6BVuR9rZiZVrwE-7" target="aahmhj6BVuR9rZiZVrwE-2">
           <mxGeometry relative="1" as="geometry" />
@@ -56,6 +56,9 @@
           <mxGeometry x="-0.023" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aahmhj6BVuR9rZiZVrwE-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aahmhj6BVuR9rZiZVrwE-8" target="aahmhj6BVuR9rZiZVrwE-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aahmhj6BVuR9rZiZVrwE-8" value="购买" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="250" width="80" height="50" as="geometry" />
@@ -130,10 +133,10 @@
           <mxGeometry x="260" y="130" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aahmhj6BVuR9rZiZVrwE-27" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="300" width="80" height="50" as="geometry" />
+          <mxGeometry x="130" y="370" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aahmhj6BVuR9rZiZVrwE-28" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="300" width="80" height="50" as="geometry" />
+          <mxGeometry x="200" y="370" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aahmhj6BVuR9rZiZVrwE-29" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="370" width="80" height="50" as="geometry" />
