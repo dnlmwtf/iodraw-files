@@ -38,7 +38,7 @@
           <mxGeometry x="131" y="181" width="17" height="147" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-18" value="订单的发货" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="333" y="192" width="26" height="142" as="geometry" />
+          <mxGeometry x="333" y="192" width="21" height="142" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-20" value="寄养房间的分配" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="157" y="181" width="17" height="147" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="406" y="181" width="21" height="172" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-27" value="上报信息的处理确认" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="471" y="176.5" width="22" height="166" as="geometry" />
+          <mxGeometry x="464" y="181" width="22" height="166" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-40" value="公告的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="713" y="190.75" width="24" height="97.5" as="geometry" />
