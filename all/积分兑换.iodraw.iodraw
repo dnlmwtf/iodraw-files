@@ -44,8 +44,18 @@
         <mxCell id="pY3zN9Kdb8N9zVhW0YPI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yE5jbQh5Hfx8_q5yfd94-6" target="yE5jbQh5Hfx8_q5yfd94-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pY3zN9Kdb8N9zVhW0YPI-20" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pY3zN9Kdb8N9zVhW0YPI-7">
+          <mxGeometry x="0.0022" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pY3zN9Kdb8N9zVhW0YPI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yE5jbQh5Hfx8_q5yfd94-6" target="yE5jbQh5Hfx8_q5yfd94-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pY3zN9Kdb8N9zVhW0YPI-19" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pY3zN9Kdb8N9zVhW0YPI-9">
+          <mxGeometry x="-0.2493" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-6" value="用户积分是否充足?" style="rhombus;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="216.5" y="333" width="183" height="75" as="geometry" />
