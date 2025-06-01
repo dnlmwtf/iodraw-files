@@ -63,11 +63,20 @@
         <mxCell id="82y-qh5c0fIzKaOF27SD-4" value="宠物用品兑换" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="261" y="79.5" width="90" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="kbIVenB--AiaC_wgsYcx-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-5" target="82y-qh5c0fIzKaOF27SD-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbIVenB--AiaC_wgsYcx-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-5" target="82y-qh5c0fIzKaOF27SD-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-5" value="流浪宠物上报" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="381" y="79.5" width="80" height="56.5" as="geometry" />
         </mxCell>
+        <mxCell id="kbIVenB--AiaC_wgsYcx-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-6" target="82y-qh5c0fIzKaOF27SD-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-6" value="用户管理员模块" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="496" y="77.75" width="91" height="60" as="geometry" />
+          <mxGeometry x="493" y="79.5" width="91" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-7" value="公告" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="616" y="83" width="66" height="60" as="geometry" />
@@ -106,7 +115,7 @@
           <mxGeometry x="393" y="168.5" width="21" height="172" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-27" value="上报信息的处理确认" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="420" y="170.5" width="22" height="166" as="geometry" />
+          <mxGeometry x="432" y="171.5" width="22" height="166" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-40" value="公告的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="631" y="163" width="24" height="97.5" as="geometry" />
