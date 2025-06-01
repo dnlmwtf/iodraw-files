@@ -13,14 +13,14 @@
         <mxCell id="ZY75U6F8D7h8Vq7ydMQA-3" value="进入登陆页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZY75U6F8D7h8Vq7ydMQA-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZY75U6F8D7h8Vq7ydMQA-4" value="输入账号面膜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY75U6F8D7h8Vq7ydMQA-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZY75U6F8D7h8Vq7ydMQA-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="350" width="80" height="80" as="geometry" />
+        <mxCell id="ZY75U6F8D7h8Vq7ydMQA-6" value="系统验证是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="350" width="80" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
