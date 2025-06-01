@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="82y-qh5c0fIzKaOF27SD-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="437" y="13" width="157" height="60" as="geometry" />
+          <mxGeometry x="294" y="12" width="157" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-2" value="宠物领养" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7" y="101" width="120" height="60" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="478" y="170.5" width="27" height="158" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-40" value="公告的查看" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="1088.5" y="213.5" width="27" height="118" as="geometry" />
+          <mxGeometry x="762" y="202" width="27" height="118" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-49" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="624" y="213.5" width="27" height="118" as="geometry" />
