@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="HEpOVodw0EDyaRc7es1n">
-    <mxGraphModel dx="1050" dy="1798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="1798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,13 +26,13 @@
           <mxGeometry x="1024" y="79" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-8" value="宠物信息的查看" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="42" y="233" width="118" height="27" as="geometry" />
+          <mxGeometry x="-37" y="215" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-9" value="领养" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="48" y="196.5" width="118" height="27" as="geometry" />
+          <mxGeometry x="-155" y="215" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-12" value="领养记录的查看与搜索" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="46.5" y="337" width="143" height="27" as="geometry" />
+          <mxGeometry x="125" y="213" width="143" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-13" value="寄养信息的查看与搜索" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="244" y="177" width="144" height="27" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="852" y="300" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="Q4BRMxRtXaGkbgVin0W--1" value="放弃领养" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="59" y="292" width="118" height="27" as="geometry" />
+          <mxGeometry x="77" y="213" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="Q4BRMxRtXaGkbgVin0W--4" value="资料修改" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="856" y="352" width="118" height="27" as="geometry" />
