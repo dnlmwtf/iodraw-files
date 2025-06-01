@@ -29,7 +29,7 @@
           <mxGeometry x="6" y="175.5" width="25" height="156" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-9" value="领养的确认和决绝" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="39" y="175" width="23" height="143" as="geometry" />
+          <mxGeometry x="39" y="175" width="23" height="156" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-12" value="领养记录的查看与搜索" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="67" y="175" width="24" height="144" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="471" y="176.5" width="22" height="166" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-40" value="公告的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="748" y="207" width="24" height="97.5" as="geometry" />
+          <mxGeometry x="713" y="190.75" width="24" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-49" value="管理员信息的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="546" y="183" width="20" height="138" as="geometry" />
