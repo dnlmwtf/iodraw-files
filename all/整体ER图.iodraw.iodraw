@@ -49,6 +49,9 @@
         <mxCell id="aahmhj6BVuR9rZiZVrwE-7" value="领养" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="105" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aahmhj6BVuR9rZiZVrwE-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aahmhj6BVuR9rZiZVrwE-8" target="aahmhj6BVuR9rZiZVrwE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aahmhj6BVuR9rZiZVrwE-8" value="购买" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="250" width="80" height="50" as="geometry" />
         </mxCell>
@@ -67,7 +70,7 @@
           <mxGeometry x="490" y="350" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aahmhj6BVuR9rZiZVrwE-16" value="上报" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="310" width="80" height="50" as="geometry" />
+          <mxGeometry x="680" y="380" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aahmhj6BVuR9rZiZVrwE-17" value="浏览" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="130" width="80" height="50" as="geometry" />
