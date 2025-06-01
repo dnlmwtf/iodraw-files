@@ -4,17 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LliEKOoFB5IqQKSf350P-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LliEKOoFB5IqQKSf350P-1" target="LliEKOoFB5IqQKSf350P-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LliEKOoFB5IqQKSf350P-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LliEKOoFB5IqQKSf350P-2" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="520" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="LliEKOoFB5IqQKSf350P-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LliEKOoFB5IqQKSf350P-3" target="LliEKOoFB5IqQKSf350P-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LliEKOoFB5IqQKSf350P-3" value="进入修改界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LliEKOoFB5IqQKSf350P-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LliEKOoFB5IqQKSf350P-4" target="LliEKOoFB5IqQKSf350P-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LliEKOoFB5IqQKSf350P-4" value="修改当前密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LliEKOoFB5IqQKSf350P-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LliEKOoFB5IqQKSf350P-5" target="LliEKOoFB5IqQKSf350P-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LliEKOoFB5IqQKSf350P-5" value="两次输入是否一致" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="330" width="130" height="70" as="geometry" />
