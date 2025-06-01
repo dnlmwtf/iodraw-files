@@ -20,7 +20,7 @@
           <mxGeometry x="430" y="90" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-6" value="用户管理员模块" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="620" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="564" y="86" width="91" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-7" value="公告" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="174" y="783" width="120" height="60" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="305" y="192" width="18" height="148" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-25" value="用户信息的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="355" y="666" width="118" height="27" as="geometry" />
+          <mxGeometry x="588" y="316" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-26" value="上报信息的删除查询和搜索" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="455" y="189" width="21" height="172" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="383.5" y="790" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-49" value="管理员信息的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="355" y="709" width="118" height="27" as="geometry" />
+          <mxGeometry x="516" y="467" width="118" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
