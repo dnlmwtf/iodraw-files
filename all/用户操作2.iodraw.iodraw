@@ -69,6 +69,9 @@
         <mxCell id="gRYarHIS2j_bBFSOJSVn-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-6" target="Q4BRMxRtXaGkbgVin0W--5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gRYarHIS2j_bBFSOJSVn-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-6" target="82y-qh5c0fIzKaOF27SD-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-6" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="104" width="126.5" height="60" as="geometry" />
         </mxCell>
@@ -103,7 +106,7 @@
           <mxGeometry x="351" y="205.5" width="27" height="118" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-25" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="578" y="218" width="27" height="118" as="geometry" />
+          <mxGeometry x="569.75" y="218" width="27" height="118" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-26" value="流浪宠物信息的上报" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="426" y="208.5" width="27" height="152" as="geometry" />
@@ -115,7 +118,7 @@
           <mxGeometry x="762" y="202" width="27" height="118" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-49" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="672" y="207.5" width="27" height="118" as="geometry" />
+          <mxGeometry x="603" y="222" width="27" height="118" as="geometry" />
         </mxCell>
         <mxCell id="Q4BRMxRtXaGkbgVin0W--1" value="放弃领养" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="104" y="189.5" width="27" height="118" as="geometry" />
