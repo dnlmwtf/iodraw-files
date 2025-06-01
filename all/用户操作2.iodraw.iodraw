@@ -39,6 +39,9 @@
         <mxCell id="gRYarHIS2j_bBFSOJSVn-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-3" target="82y-qh5c0fIzKaOF27SD-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gRYarHIS2j_bBFSOJSVn-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-3" target="82y-qh5c0fIzKaOF27SD-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-3" value="宠物寄养" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="177" y="104" width="120" height="60" as="geometry" />
         </mxCell>
@@ -70,10 +73,10 @@
           <mxGeometry x="411" y="184.5" width="27" height="141" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-20" value="寄养信息表的编辑与撤回" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="252" y="190" width="27" height="135" as="geometry" />
+          <mxGeometry x="232" y="197" width="27" height="135" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-22" value="寄养申请的发起" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="292" y="190" width="27" height="118" as="geometry" />
+          <mxGeometry x="270" y="202" width="27" height="118" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-23" value="宠物用品的查看与搜索" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="342" y="185" width="27" height="135" as="geometry" />
