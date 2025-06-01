@@ -11,7 +11,7 @@
           <mxGeometry x="51" y="89" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-3" value="宠物寄养" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="203" y="207" width="120" height="60" as="geometry" />
+          <mxGeometry x="299" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-4" value="宠物用品兑换" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="203" y="366" width="120" height="60" as="geometry" />
@@ -29,10 +29,10 @@
           <mxGeometry x="-91" y="219" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-9" value="领养" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="371" y="51" width="118" height="27" as="geometry" />
+          <mxGeometry x="34" y="223.5" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-12" value="领养记录的查看与搜索" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="371" y="89" width="143" height="27" as="geometry" />
+          <mxGeometry x="-64" y="287" width="143" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-13" value="寄养信息的查看与搜索" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="377" y="195" width="144" height="27" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="355" y="709" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="Q4BRMxRtXaGkbgVin0W--1" value="放弃领养" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="372" y="127" width="118" height="27" as="geometry" />
+          <mxGeometry x="59" y="292" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="Q4BRMxRtXaGkbgVin0W--4" value="资料修改" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="746" width="118" height="27" as="geometry" />
