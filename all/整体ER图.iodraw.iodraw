@@ -193,7 +193,7 @@
         <mxCell id="aahmhj6BVuR9rZiZVrwE-7" value="领养" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="105" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aahmhj6BVuR9rZiZVrwE-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aahmhj6BVuR9rZiZVrwE-8" target="aahmhj6BVuR9rZiZVrwE-2" edge="1">
+        <mxCell id="aahmhj6BVuR9rZiZVrwE-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="aahmhj6BVuR9rZiZVrwE-8" target="aahmhj6BVuR9rZiZVrwE-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aahmhj6BVuR9rZiZVrwE-49" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aahmhj6BVuR9rZiZVrwE-46" vertex="1" connectable="0">
