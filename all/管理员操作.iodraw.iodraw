@@ -11,7 +11,7 @@
           <mxGeometry x="15" y="77" width="71" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-3" value="宠物寄养" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="133" y="84" width="80" height="59" as="geometry" />
+          <mxGeometry x="136" y="77" width="80" height="59" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-4" value="宠物用品兑换" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="265" y="86" width="90" height="75" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="564" y="86" width="91" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-7" value="公告" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="678" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="93.5" width="66" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-8" value="宠物信息的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="6" y="175.5" width="25" height="156" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="494" y="187" width="22" height="166" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-40" value="公告的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="764" y="182" width="24" height="97.5" as="geometry" />
+          <mxGeometry x="748" y="207" width="24" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-49" value="管理员信息的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="573" y="183" width="20" height="138" as="geometry" />
