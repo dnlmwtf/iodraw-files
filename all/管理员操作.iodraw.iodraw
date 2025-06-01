@@ -23,7 +23,7 @@
           <mxGeometry x="564" y="86" width="91" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-7" value="公告" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="174" y="783" width="120" height="60" as="geometry" />
+          <mxGeometry x="797" y="93.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-8" value="宠物信息的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="-87" y="187" width="25" height="156" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="383.5" y="790" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-49" value="管理员信息的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="516" y="467" width="118" height="27" as="geometry" />
+          <mxGeometry x="584" y="231" width="118" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
