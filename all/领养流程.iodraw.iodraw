@@ -31,6 +31,9 @@
         <mxCell id="8QGFbMVNFjrMD6R9w8f1-3" value="宠物状态是否可以领养?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="118" y="200" width="215" height="87" as="geometry" />
         </mxCell>
+        <mxCell id="TeYvkNjUDMWSo_gIPo_E-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8QGFbMVNFjrMD6R9w8f1-4" target="8QGFbMVNFjrMD6R9w8f1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8QGFbMVNFjrMD6R9w8f1-4" value="重新选择宠物" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="373" y="223" width="156" height="48" as="geometry" />
         </mxCell>
@@ -40,8 +43,11 @@
         <mxCell id="8QGFbMVNFjrMD6R9w8f1-5" value="提交领养记录，提示领养成功" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="126" y="348" width="199" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="TeYvkNjUDMWSo_gIPo_E-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TeYvkNjUDMWSo_gIPo_E-6" target="8QGFbMVNFjrMD6R9w8f1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TeYvkNjUDMWSo_gIPo_E-6" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="159" y="32" width="120" height="42" as="geometry" />
+          <mxGeometry x="165.5" y="32" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="TeYvkNjUDMWSo_gIPo_E-7" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165.5" y="446" width="120" height="42" as="geometry" />
