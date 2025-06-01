@@ -265,11 +265,8 @@
         <mxCell id="aahmhj6BVuR9rZiZVrwE-15" value="浏览" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="350" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aahmhj6BVuR9rZiZVrwE-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="500" as="sourcePoint" />
-            <mxPoint x="-27.5" y="450" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="aahmhj6BVuR9rZiZVrwE-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aahmhj6BVuR9rZiZVrwE-16" target="aahmhj6BVuR9rZiZVrwE-73">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aahmhj6BVuR9rZiZVrwE-16" value="上报" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="380" width="80" height="50" as="geometry" />
