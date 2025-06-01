@@ -75,8 +75,14 @@
         <mxCell id="kbIVenB--AiaC_wgsYcx-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-6" target="82y-qh5c0fIzKaOF27SD-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kbIVenB--AiaC_wgsYcx-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-6" target="82y-qh5c0fIzKaOF27SD-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-6" value="用户管理员模块" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="493" y="79.5" width="91" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kbIVenB--AiaC_wgsYcx-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-7" target="82y-qh5c0fIzKaOF27SD-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-7" value="公告" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="616" y="83" width="66" height="60" as="geometry" />
@@ -109,7 +115,7 @@
           <mxGeometry x="299" y="168.5" width="24" height="148" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-25" value="用户信息的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="547" y="163" width="24" height="136" as="geometry" />
+          <mxGeometry x="551" y="174.5" width="24" height="136" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-26" value="上报信息的删除查询和搜索" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="393" y="168.5" width="21" height="172" as="geometry" />
@@ -118,10 +124,10 @@
           <mxGeometry x="432" y="171.5" width="22" height="166" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-40" value="公告的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="631" y="163" width="24" height="97.5" as="geometry" />
+          <mxGeometry x="646" y="193.75" width="24" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-49" value="管理员信息的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="503" y="163" width="20" height="138" as="geometry" />
+          <mxGeometry x="501" y="181" width="20" height="138" as="geometry" />
         </mxCell>
         <mxCell id="kbIVenB--AiaC_wgsYcx-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-23" target="82y-qh5c0fIzKaOF27SD-23">
           <mxGeometry relative="1" as="geometry" />
