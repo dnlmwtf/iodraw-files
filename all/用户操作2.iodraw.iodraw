@@ -53,7 +53,7 @@
           <mxGeometry x="489" y="223.5" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-25" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="666" width="118" height="27" as="geometry" />
+          <mxGeometry x="846" y="248" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-26" value="流浪宠物信息的上报" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="619" y="188" width="152" height="27" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="382.5" y="820" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-49" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="709" width="118" height="27" as="geometry" />
+          <mxGeometry x="921" y="543" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="Q4BRMxRtXaGkbgVin0W--1" value="放弃领养" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="59" y="292" width="118" height="27" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="355" y="746" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="Q4BRMxRtXaGkbgVin0W--5" value="积分充值" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="355" y="630" width="118" height="27" as="geometry" />
+          <mxGeometry x="833" y="192" width="118" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
