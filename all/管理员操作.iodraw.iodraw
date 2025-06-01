@@ -56,7 +56,7 @@
           <mxGeometry x="355" y="666" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-26" value="上报信息的删除查询和搜索" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="394" y="230" width="152" height="27" as="geometry" />
+          <mxGeometry x="394" y="168" width="30" height="147" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-27" value="上报信息的处理确认" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="347" y="553" width="158" height="27" as="geometry" />
