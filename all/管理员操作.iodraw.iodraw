@@ -26,7 +26,7 @@
           <mxGeometry x="174" y="783" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-8" value="宠物信息的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="-152" y="310" width="118" height="27" as="geometry" />
+          <mxGeometry x="-87" y="236" width="178" height="107" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-9" value="领养的确认和决绝" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="371" y="51" width="118" height="27" as="geometry" />
