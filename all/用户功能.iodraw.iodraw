@@ -19,10 +19,10 @@
         <mxCell id="VuVBDDdZhuLWK5hErW16-5" value="宠物模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VuVBDDdZhuLWK5hErW16-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VuVBDDdZhuLWK5hErW16-6" value="订单模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VuVBDDdZhuLWK5hErW16-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VuVBDDdZhuLWK5hErW16-7" value="寄养模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VuVBDDdZhuLWK5hErW16-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
