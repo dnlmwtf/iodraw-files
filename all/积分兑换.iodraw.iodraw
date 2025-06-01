@@ -43,6 +43,9 @@
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-7" value="提交订单" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="436" y="346.5" width="124" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="pY3zN9Kdb8N9zVhW0YPI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yE5jbQh5Hfx8_q5yfd94-8" target="yE5jbQh5Hfx8_q5yfd94-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-8" value="提示用户剩余积分不足" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="8" y="346.5" width="162" height="48" as="geometry" />
         </mxCell>
@@ -57,6 +60,9 @@
         </mxCell>
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-10" value="管理员发货" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="585.5" y="440" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pY3zN9Kdb8N9zVhW0YPI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yE5jbQh5Hfx8_q5yfd94-11" target="pY3zN9Kdb8N9zVhW0YPI-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-11" value="用户收货" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="413.5" y="440" width="124" height="48" as="geometry" />
