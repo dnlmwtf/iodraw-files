@@ -22,7 +22,7 @@
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-7" value="提交订单" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="434" y="330.5" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="yE5jbQh5Hfx8_q5yfd94-8" value="1" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="yE5jbQh5Hfx8_q5yfd94-8" value="提示用户剩余积分不足" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="8" y="336" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-9" value="扣除积分" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
