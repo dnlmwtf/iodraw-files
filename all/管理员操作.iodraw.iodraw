@@ -38,7 +38,7 @@
           <mxGeometry x="496" y="77.75" width="91" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-7" value="公告" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="692" y="77.75" width="66" height="60" as="geometry" />
+          <mxGeometry x="616" y="83" width="66" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-8" value="宠物信息的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="6" y="175.5" width="25" height="156" as="geometry" />
@@ -68,19 +68,19 @@
           <mxGeometry x="299" y="192" width="24" height="148" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-25" value="用户信息的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="613" y="183" width="24" height="136" as="geometry" />
+          <mxGeometry x="547" y="163" width="24" height="136" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-26" value="上报信息的删除查询和搜索" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="406" y="181" width="21" height="172" as="geometry" />
+          <mxGeometry x="393" y="168.5" width="21" height="172" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-27" value="上报信息的处理确认" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="464" y="181" width="22" height="166" as="geometry" />
+          <mxGeometry x="420" y="170.5" width="22" height="166" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-40" value="公告的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="715" y="179" width="24" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-49" value="管理员信息的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="546" y="183" width="20" height="138" as="geometry" />
+          <mxGeometry x="503" y="163" width="20" height="138" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
