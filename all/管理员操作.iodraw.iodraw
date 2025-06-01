@@ -16,6 +16,9 @@
         <mxCell id="kbIVenB--AiaC_wgsYcx-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-1" target="82y-qh5c0fIzKaOF27SD-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kbIVenB--AiaC_wgsYcx-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-1" target="82y-qh5c0fIzKaOF27SD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-1" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="293" width="67" height="60" as="geometry" />
         </mxCell>
@@ -29,10 +32,10 @@
           <mxGeometry x="261" y="79.5" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-5" value="流浪宠物上报" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="406" y="79.5" width="80" height="56.5" as="geometry" />
+          <mxGeometry x="381" y="79.5" width="80" height="56.5" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-6" value="用户管理员模块" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="546" y="79.5" width="91" height="60" as="geometry" />
+          <mxGeometry x="496" y="77.75" width="91" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-7" value="公告" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="692" y="77.75" width="66" height="60" as="geometry" />
