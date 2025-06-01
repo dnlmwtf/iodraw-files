@@ -19,6 +19,11 @@
         <mxCell id="mNOpPudARyNV8Om3bNkR-5" value="账号和密码是否正确?" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="127.5" y="302" width="199" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="mNOpPudARyNV8Om3bNkR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mNOpPudARyNV8Om3bNkR-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="439" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mNOpPudARyNV8Om3bNkR-6" value="提示密码或者账号错误" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="410" width="170" height="58" as="geometry" />
         </mxCell>
@@ -27,6 +32,9 @@
         </mxCell>
         <mxCell id="mNOpPudARyNV8Om3bNkR-7" value="系统为用户生成唯一的token" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="372.5" y="314" width="167.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="mNOpPudARyNV8Om3bNkR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mNOpPudARyNV8Om3bNkR-9" target="mNOpPudARyNV8Om3bNkR-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mNOpPudARyNV8Om3bNkR-9" value="进入系统首页" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="317" width="100" height="60" as="geometry" />
@@ -60,6 +68,11 @@
         </mxCell>
         <mxCell id="mNOpPudARyNV8Om3bNkR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.009;entryY=0.406;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mNOpPudARyNV8Om3bNkR-5" target="mNOpPudARyNV8Om3bNkR-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mNOpPudARyNV8Om3bNkR-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mNOpPudARyNV8Om3bNkR-23">
+          <mxGeometry x="-0.1825" y="3" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
