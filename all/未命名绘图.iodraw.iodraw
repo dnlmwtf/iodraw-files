@@ -7,10 +7,10 @@
         <mxCell id="mNOpPudARyNV8Om3bNkR-2" value="登录界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="163.5" y="89" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="mNOpPudARyNV8Om3bNkR-3" value="用户输入账号和密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="mNOpPudARyNV8Om3bNkR-3" value="用户输入账号和密码" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="124" y="159" width="204" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="mNOpPudARyNV8Om3bNkR-4" value="返回登录界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="mNOpPudARyNV8Om3bNkR-4" value="返回登录界面" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="148.5" y="233" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mNOpPudARyNV8Om3bNkR-5" value="账号和密码是否正确?" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
