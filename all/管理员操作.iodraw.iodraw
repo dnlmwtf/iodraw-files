@@ -20,7 +20,7 @@
           <mxGeometry x="430" y="90" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-6" value="用户管理员模块" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="200" y="686" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-7" value="公告" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="174" y="783" width="120" height="60" as="geometry" />
@@ -56,10 +56,10 @@
           <mxGeometry x="355" y="666" width="118" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-26" value="上报信息的删除查询和搜索" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="403" y="192" width="21" height="172" as="geometry" />
+          <mxGeometry x="455" y="189" width="21" height="172" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-27" value="上报信息的处理确认" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="460" y="191" width="29" height="166" as="geometry" />
+          <mxGeometry x="494" y="187" width="22" height="166" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-40" value="公告的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="383.5" y="790" width="118" height="27" as="geometry" />
