@@ -25,9 +25,6 @@
         <mxCell id="mNOpPudARyNV8Om3bNkR-9" value="进入系统首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="300" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mNOpPudARyNV8Om3bNkR-10" value="流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="701" y="290" width="79" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="mNOpPudARyNV8Om3bNkR-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="mNOpPudARyNV8Om3bNkR-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -52,8 +49,8 @@
         <mxCell id="mNOpPudARyNV8Om3bNkR-21" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="167" y="20" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mNOpPudARyNV8Om3bNkR-22" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="177" y="30" width="120" height="50" as="geometry" />
+        <mxCell id="mNOpPudARyNV8Om3bNkR-22" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="302" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
