@@ -44,7 +44,7 @@
           <mxGeometry x="127" y="193" width="17" height="117" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-22" value="寄养房间的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="156" y="192" width="118" height="37" as="geometry" />
+          <mxGeometry x="156" y="192" width="18" height="138" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-23" value="宠物用品的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="359.5" y="335" width="135" height="27" as="geometry" />
