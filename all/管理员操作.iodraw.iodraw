@@ -38,7 +38,7 @@
           <mxGeometry x="92" y="195" width="17" height="117" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-18" value="订单的发货" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="313" y="207" width="141" height="52" as="geometry" />
+          <mxGeometry x="289" y="203.5" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-20" value="寄养房间的分配" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="127" y="193" width="17" height="117" as="geometry" />
