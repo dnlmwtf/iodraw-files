@@ -233,11 +233,20 @@
         <mxCell id="aahmhj6BVuR9rZiZVrwE-20" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="300" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aahmhj6BVuR9rZiZVrwE-102" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aahmhj6BVuR9rZiZVrwE-21" target="aahmhj6BVuR9rZiZVrwE-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aahmhj6BVuR9rZiZVrwE-21" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="110" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aahmhj6BVuR9rZiZVrwE-104" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aahmhj6BVuR9rZiZVrwE-22" target="aahmhj6BVuR9rZiZVrwE-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aahmhj6BVuR9rZiZVrwE-22" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="265" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aahmhj6BVuR9rZiZVrwE-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aahmhj6BVuR9rZiZVrwE-23" target="aahmhj6BVuR9rZiZVrwE-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aahmhj6BVuR9rZiZVrwE-23" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="195" width="80" height="50" as="geometry" />
@@ -310,7 +319,7 @@
           <mxGeometry x="-80" y="90" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aahmhj6BVuR9rZiZVrwE-71" value="寄养信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="170" width="70" height="40" as="geometry" />
+          <mxGeometry x="-90" y="185" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aahmhj6BVuR9rZiZVrwE-72" value="领养信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="255" width="70" height="40" as="geometry" />
