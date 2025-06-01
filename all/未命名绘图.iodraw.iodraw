@@ -26,10 +26,10 @@
           <mxGeometry x="392.5" y="300" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="mNOpPudARyNV8Om3bNkR-9" value="进入系统首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="440" y="207" width="157" height="48" as="geometry" />
+          <mxGeometry x="440" y="159" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mNOpPudARyNV8Om3bNkR-10" value="流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="455.5" y="41" width="126" height="48" as="geometry" />
+          <mxGeometry x="455.5" y="30" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mNOpPudARyNV8Om3bNkR-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="mNOpPudARyNV8Om3bNkR-1" target="mNOpPudARyNV8Om3bNkR-2">
           <mxGeometry relative="1" as="geometry">
@@ -50,9 +50,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="mNOpPudARyNV8Om3bNkR-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="210" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
