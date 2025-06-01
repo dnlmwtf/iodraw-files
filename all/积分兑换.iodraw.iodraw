@@ -14,7 +14,7 @@
           <mxGeometry x="242" y="85" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-3" value="宠物用品数量是否充足?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="114" y="167" width="215" height="215" as="geometry" />
+          <mxGeometry x="114" y="167" width="215" height="81" as="geometry" />
         </mxCell>
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-4" value="填写收货信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="116" y="477" width="158" height="48" as="geometry" />
