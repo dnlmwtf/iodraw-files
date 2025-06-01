@@ -66,6 +66,9 @@
         <mxCell id="82y-qh5c0fIzKaOF27SD-5" value="流浪宠物上报" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="102.5" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gRYarHIS2j_bBFSOJSVn-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-6" target="Q4BRMxRtXaGkbgVin0W--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-6" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="104" width="126.5" height="60" as="geometry" />
         </mxCell>
@@ -100,10 +103,10 @@
           <mxGeometry x="351" y="205.5" width="27" height="118" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-25" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="636" y="207.5" width="27" height="118" as="geometry" />
+          <mxGeometry x="578" y="218" width="27" height="118" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-26" value="流浪宠物信息的上报" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="439" y="196.5" width="27" height="152" as="geometry" />
+          <mxGeometry x="426" y="208.5" width="27" height="152" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-27" value="流浪宠物信息的查看与搜索" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="481" y="205.5" width="27" height="158" as="geometry" />
@@ -121,7 +124,7 @@
           <mxGeometry x="704" y="202" width="27" height="118" as="geometry" />
         </mxCell>
         <mxCell id="Q4BRMxRtXaGkbgVin0W--5" value="积分充值" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="607" y="205.5" width="27" height="118" as="geometry" />
+          <mxGeometry x="534" y="215" width="27" height="118" as="geometry" />
         </mxCell>
         <mxCell id="gRYarHIS2j_bBFSOJSVn-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.635;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="82y-qh5c0fIzKaOF27SD-1" target="82y-qh5c0fIzKaOF27SD-2">
           <mxGeometry relative="1" as="geometry" />
