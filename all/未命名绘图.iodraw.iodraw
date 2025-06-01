@@ -13,14 +13,6 @@
         <mxCell id="mNOpPudARyNV8Om3bNkR-4" value="返回登录界面" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="148.5" y="233" width="157" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="mNOpPudARyNV8Om3bNkR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mNOpPudARyNV8Om3bNkR-5" target="mNOpPudARyNV8Om3bNkR-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mNOpPudARyNV8Om3bNkR-30" value="错误" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mNOpPudARyNV8Om3bNkR-24" vertex="1" connectable="0">
-          <mxGeometry x="0.2079" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mNOpPudARyNV8Om3bNkR-5" value="账号和密码是否正确?" style="rhombus;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="127.5" y="302" width="199" height="78" as="geometry" />
         </mxCell>
