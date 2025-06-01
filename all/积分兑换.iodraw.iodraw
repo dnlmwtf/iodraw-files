@@ -16,7 +16,7 @@
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-5" value="不可以下单，重新选择宠物用品" style="whiteSpace=wrap;strokeWidth=1;perimeterSpacing=1;" parent="1" vertex="1">
           <mxGeometry x="8" y="181" width="178" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="yE5jbQh5Hfx8_q5yfd94-6" value="用户积分是否充足?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="yE5jbQh5Hfx8_q5yfd94-6" value="用户积分是否充足?" style="rhombus;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="219" y="317" width="183" height="75" as="geometry" />
         </mxCell>
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-7" value="提交订单" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
