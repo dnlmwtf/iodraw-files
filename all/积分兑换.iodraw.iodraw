@@ -23,7 +23,7 @@
           <mxGeometry x="219" y="317" width="183" height="75" as="geometry" />
         </mxCell>
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-7" value="提交订单" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="28" y="791" width="124" height="48" as="geometry" />
+          <mxGeometry x="249" y="417" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="yE5jbQh5Hfx8_q5yfd94-8" value="提示用户积分不足" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="196" y="798" width="188" height="48" as="geometry" />
