@@ -22,6 +22,12 @@
         <mxCell id="aahmhj6BVuR9rZiZVrwE-6" value="宠物用品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="250" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="aahmhj6BVuR9rZiZVrwE-7" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aahmhj6BVuR9rZiZVrwE-8" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="250" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
