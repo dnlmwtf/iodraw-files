@@ -32,16 +32,16 @@
           <mxGeometry x="39" y="175" width="23" height="156" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-12" value="领养记录的查看与搜索" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="67" y="175" width="24" height="144" as="geometry" />
+          <mxGeometry x="67" y="175" width="24" height="157" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-13" value="寄养信息的查看" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="131" y="181" width="17" height="117" as="geometry" />
+          <mxGeometry x="131" y="181" width="17" height="147" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-18" value="订单的发货" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="333" y="192" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-20" value="寄养房间的分配" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="161.5" y="183" width="17" height="117" as="geometry" />
+          <mxGeometry x="161.5" y="183" width="17" height="142" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-22" value="寄养房间的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="187" y="184.5" width="18" height="138" as="geometry" />
