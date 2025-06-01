@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="HEpOVodw0EDyaRc7es1n">
-    <mxGraphModel dx="1877" dy="629" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="629" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry x="30" y="173.5" width="27" height="118" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-9" value="领养" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-306.5" y="173.5" width="27" height="118" as="geometry" />
+          <mxGeometry x="3" y="177" width="27" height="118" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-12" value="领养记录的查看与搜索" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="100" y="171.5" width="27" height="143" as="geometry" />
@@ -41,13 +41,13 @@
           <mxGeometry x="539" y="184" width="27" height="141" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-20" value="寄养信息表的编辑与撤回" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="260" y="182" width="27" height="135" as="geometry" />
+          <mxGeometry x="179" y="178.5" width="27" height="135" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-22" value="寄养申请的发起" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="334.5" y="195.5" width="27" height="118" as="geometry" />
+          <mxGeometry x="214" y="182.5" width="27" height="118" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-23" value="宠物用品的查看与搜索" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="424" y="187" width="27" height="135" as="geometry" />
+          <mxGeometry x="294" y="175.5" width="27" height="135" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-24" value="宠物用品的兑换" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="498.5" y="195.5" width="27" height="118" as="geometry" />
