@@ -16,7 +16,7 @@
         <mxCell id="8qAeglSKil7G0Cv9DT5A-4" value="填写注册信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8qAeglSKil7G0Cv9DT5A-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8qAeglSKil7G0Cv9DT5A-5" value="获取注册账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8qAeglSKil7G0Cv9DT5A-6" value="验证是否重复" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
