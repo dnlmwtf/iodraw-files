@@ -10,6 +10,9 @@
         <mxCell id="mNOpPudARyNV8Om3bNkR-3" value="用户输入账号和密码" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="124" y="159" width="204" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="dKji4ATa85lvRtL45wHB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mNOpPudARyNV8Om3bNkR-4" target="mNOpPudARyNV8Om3bNkR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mNOpPudARyNV8Om3bNkR-4" value="返回登录界面" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="-73.5" y="159" width="157" height="48" as="geometry" />
         </mxCell>
@@ -23,6 +26,9 @@
         </mxCell>
         <mxCell id="mNOpPudARyNV8Om3bNkR-5" value="账号和密码是否正确?" style="rhombus;strokeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="129" y="234" width="199" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="dKji4ATa85lvRtL45wHB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mNOpPudARyNV8Om3bNkR-6" target="mNOpPudARyNV8Om3bNkR-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mNOpPudARyNV8Om3bNkR-6" value="提示密码或者账号错误" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="-86.5" y="244" width="170" height="58" as="geometry" />
