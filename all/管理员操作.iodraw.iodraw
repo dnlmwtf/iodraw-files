@@ -8,7 +8,7 @@
           <mxGeometry x="129" y="23" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-2" value="宠物领养" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="22" y="147" width="22" height="60" as="geometry" />
+          <mxGeometry x="15" y="77" width="22" height="60" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-3" value="宠物寄养" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="203" y="207" width="120" height="60" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="-87" y="187" width="25" height="156" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-9" value="领养的确认和决绝" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="-37" y="275" width="118" height="27" as="geometry" />
+          <mxGeometry x="-37" y="275" width="238" height="27" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-12" value="领养记录的查看与搜索" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="371" y="89" width="143" height="27" as="geometry" />
