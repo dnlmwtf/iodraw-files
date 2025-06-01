@@ -59,7 +59,7 @@
           <mxGeometry x="403" y="192" width="21" height="172" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-27" value="上报信息的处理确认" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="460" y="271" width="158" height="11" as="geometry" />
+          <mxGeometry x="460" y="191" width="29" height="166" as="geometry" />
         </mxCell>
         <mxCell id="82y-qh5c0fIzKaOF27SD-40" value="公告的增删改查" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="383.5" y="790" width="118" height="27" as="geometry" />
