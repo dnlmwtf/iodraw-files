@@ -94,13 +94,13 @@
         <mxCell id="on_PMf5-5uH_7J0JDQlf-8" value="领&#xa;养&#xa;记&#xa;录&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="168" y="229" width="28" height="179" as="geometry" />
         </mxCell>
-        <mxCell id="on_PMf5-5uH_7J0JDQlf-9" value="房&#xa;间&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="on_PMf5-5uH_7J0JDQlf-9" value="房&#xa;间&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="202" y="230" width="28" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="on_PMf5-5uH_7J0JDQlf-10" value="寄&#xa;养&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="on_PMf5-5uH_7J0JDQlf-10" value="寄&#xa;养&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="236" y="230" width="23" height="181" as="geometry" />
         </mxCell>
-        <mxCell id="on_PMf5-5uH_7J0JDQlf-11" value="宠&#xa;物&#xa;用&#xa;品&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="on_PMf5-5uH_7J0JDQlf-11" value="宠&#xa;物&#xa;用&#xa;品&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="268" y="228.5" width="31" height="173" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-12" value="订&#xa;单&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
