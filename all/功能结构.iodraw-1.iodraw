@@ -130,10 +130,10 @@
         <mxCell id="on_PMf5-5uH_7J0JDQlf-20" value="宠&#xa;物&#xa;用&#xa;品&#xa;购&#xa;买" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="710" y="234" width="35" height="146" as="geometry" />
         </mxCell>
-        <mxCell id="on_PMf5-5uH_7J0JDQlf-21" value="订&#xa;单&#xa;信&#xa;息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="on_PMf5-5uH_7J0JDQlf-21" value="订&#xa;单&#xa;信&#xa;息" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="754" y="234" width="23" height="151" as="geometry" />
         </mxCell>
-        <mxCell id="on_PMf5-5uH_7J0JDQlf-22" value="流&#xa;浪&#xa;宠&#xa;物&#xa;上&#xa;报" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="on_PMf5-5uH_7J0JDQlf-22" value="流&#xa;浪&#xa;宠&#xa;物&#xa;上&#xa;报" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="786" y="236.5" width="31" height="146" as="geometry" />
         </mxCell>
         <mxCell id="on_PMf5-5uH_7J0JDQlf-23" value="个&#xa;人&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
