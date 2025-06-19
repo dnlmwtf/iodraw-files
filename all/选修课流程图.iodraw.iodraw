@@ -16,11 +16,20 @@
         <mxCell id="7z0X1Gd6SoDSYxDlptzf-6" value="加载模型和分词器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7z0X1Gd6SoDSYxDlptzf-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7z0X1Gd6SoDSYxDlptzf-7" target="7z0X1Gd6SoDSYxDlptzf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7z0X1Gd6SoDSYxDlptzf-7" value="加载本地小说数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7z0X1Gd6SoDSYxDlptzf-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7z0X1Gd6SoDSYxDlptzf-8" target="7z0X1Gd6SoDSYxDlptzf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7z0X1Gd6SoDSYxDlptzf-8" value="构建输入目标对" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7z0X1Gd6SoDSYxDlptzf-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7z0X1Gd6SoDSYxDlptzf-9" target="7z0X1Gd6SoDSYxDlptzf-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7z0X1Gd6SoDSYxDlptzf-9" value="转化为Dataset对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="350" width="120" height="60" as="geometry" />
