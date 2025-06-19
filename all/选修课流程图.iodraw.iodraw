@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7z0X1Gd6SoDSYxDlptzf-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7z0X1Gd6SoDSYxDlptzf-5" target="7z0X1Gd6SoDSYxDlptzf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7z0X1Gd6SoDSYxDlptzf-5" value="导入必要的库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7z0X1Gd6SoDSYxDlptzf-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7z0X1Gd6SoDSYxDlptzf-6" target="7z0X1Gd6SoDSYxDlptzf-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7z0X1Gd6SoDSYxDlptzf-6" value="加载模型和分词器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="210" width="120" height="60" as="geometry" />
