@@ -31,7 +31,7 @@
         <mxCell id="7z0X1Gd6SoDSYxDlptzf-13" value="定义训练器并开始训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="500" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7z0X1Gd6SoDSYxDlptzf-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7z0X1Gd6SoDSYxDlptzf-14" value="保存微调后的模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
