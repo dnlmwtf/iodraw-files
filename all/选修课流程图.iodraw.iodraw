@@ -28,6 +28,9 @@
         <mxCell id="7z0X1Gd6SoDSYxDlptzf-12" value="配置训练参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7z0X1Gd6SoDSYxDlptzf-13" value="定义训练器并开始训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
