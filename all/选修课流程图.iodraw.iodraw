@@ -34,7 +34,7 @@
         <mxCell id="7z0X1Gd6SoDSYxDlptzf-14" value="保存微调后的模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7z0X1Gd6SoDSYxDlptzf-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7z0X1Gd6SoDSYxDlptzf-15" value="小说续写功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
