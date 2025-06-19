@@ -13,7 +13,7 @@
         <mxCell id="7z0X1Gd6SoDSYxDlptzf-7" value="加载本地小说数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7z0X1Gd6SoDSYxDlptzf-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7z0X1Gd6SoDSYxDlptzf-8" value="构建输入目标对" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
