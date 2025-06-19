@@ -34,11 +34,20 @@
         <mxCell id="7z0X1Gd6SoDSYxDlptzf-9" value="转化为Dataset对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7z0X1Gd6SoDSYxDlptzf-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7z0X1Gd6SoDSYxDlptzf-10" target="7z0X1Gd6SoDSYxDlptzf-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7z0X1Gd6SoDSYxDlptzf-10" value="划分训练集和验证集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7z0X1Gd6SoDSYxDlptzf-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7z0X1Gd6SoDSYxDlptzf-11" target="7z0X1Gd6SoDSYxDlptzf-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7z0X1Gd6SoDSYxDlptzf-11" value="定义数据整理函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7z0X1Gd6SoDSYxDlptzf-24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7z0X1Gd6SoDSYxDlptzf-12" target="7z0X1Gd6SoDSYxDlptzf-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7z0X1Gd6SoDSYxDlptzf-12" value="配置训练参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="500" width="120" height="60" as="geometry" />
